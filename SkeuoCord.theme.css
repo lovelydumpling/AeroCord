@@ -7,8 +7,9 @@
  * @source https://marda33.github.io/SkeuoCord/updates/SkeuoCordBase.css
 */
 
-@import url("https://marda33.github.io/SkeuoCord/updates/SkeuoCordBase.css");
+@import url("https://marda33.github.io/SkeuoCord/updates/SkeuoCord_BGImport.css");
 /*replace SkeuoCordBase with SkeuoCord_BGImport to use custom BG image*/
+/*@import url("https://marda33.github.io/SkeuoCord/updates/SkeuoCordBase.css");*/
 
 :root {
 	/*User Avatar Border Radius Values - change all below to 999px for circle avatars, set back to default values for square avatars*/
@@ -18,6 +19,6 @@
 	--medavatarradius: 4px !important; /*default: 4px*/
 	--largeavatarradius: 5px !important; /*default: 5px*/
 	/*Custom BG - enter the link to the image you want to use as the app background, keep quotes*/
-	--bg-image: url('here') center/cover no-repeat !important;
+	--bg-image: url('https://cdn.discordapp.com/attachments/167115749939216384/1119358720980291684/1880445-Windows-Vista-Reworked-2021-Vista-4K.png') center/cover no-repeat !important;
 	/*------*/
 }
