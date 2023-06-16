@@ -19,6 +19,6 @@
 	--medavatarradius: 4px !important; /*default: 4px*/
 	--largeavatarradius: 5px !important; /*default: 5px*/
 	/*Custom BG - enter the link to the image you want to use as the app background, keep quotes*/
-	--bg-image: url('https://cdn.discordapp.com/attachments/167115749939216384/1119358720980291684/1880445-Windows-Vista-Reworked-2021-Vista-4K.png') center/cover no-repeat !important;
+	--bg-image: url('https://cdn.discordapp.com/attachments/167115749939216384/1119360418624843836/image.png') center/cover no-repeat !important;
 	/*------*/
 }
